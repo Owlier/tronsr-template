@@ -1,4 +1,4 @@
-Once we enter top 27SR:
+Once we enter in top 27 SR:
 
 **1. Rewards to the voters :** 80% - distribution will be done daily.  
 **2. Development budget :** 10% - Tools development  
