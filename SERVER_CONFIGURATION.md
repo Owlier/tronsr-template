@@ -5,7 +5,6 @@ Our node is running on:
 
 At the moment that we enter in top 27 we will upgrade to:
 
-**System Type:** AWS EC2 Instance
-**CPU:** 64 CPU cores
-**RAM:** 144 GB
-
+**System Type:** AWS EC2 Instance  
+**CPU:** 64 CPU cores  
+**RAM:** 144 GB  
